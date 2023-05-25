@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
+    "dotenv": "^16.0.3",
     "jest": "^28.1.0",
     "mysql2": "^2.3.3",
     "sequelize": "^6.20.0"
